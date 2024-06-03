@@ -1,10 +1,10 @@
-package com.luckyGirls.forYourNutrition.dao.mybatis.mapper;
+package com.luckyGirls.ForYourNutrition.dao.mybatis.mapper;
 
 import java.util.List;
 
 import org.apache.ibatis.annotations.Mapper;
 
-import com.luckyGirls.forYourNutrition.domain.Member;
+import com.luckyGirls.ForYourNutrition.domain.Member;
 
 /**
  * @author Yeonwoo Nam
