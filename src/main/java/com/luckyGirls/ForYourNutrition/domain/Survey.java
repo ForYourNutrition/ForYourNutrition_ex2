@@ -1,4 +1,4 @@
-package com.luckyGirls.forYourNutrition.domain;
+package com.luckyGirls.ForYourNutrition.domain;
 
 import java.util.List;
 import java.io.Serializable;

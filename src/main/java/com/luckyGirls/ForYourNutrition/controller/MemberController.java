@@ -1,7 +1,7 @@
-package com.luckyGirls.forYourNutrition.controller;
+package com.luckyGirls.ForYourNutrition.controller;
 
-import com.luckyGirls.forYourNutrition.domain.Member;
-import com.luckyGirls.forYourNutrition.service.MemberService;
+import com.luckyGirls.ForYourNutrition.domain.Member;
+import com.luckyGirls.ForYourNutrition.service.MemberService;
 import java.util.List;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpSession;

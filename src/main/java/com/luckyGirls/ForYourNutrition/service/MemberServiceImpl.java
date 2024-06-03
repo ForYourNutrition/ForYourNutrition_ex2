@@ -1,10 +1,10 @@
-package com.luckyGirls.forYourNutrition.service;
+package com.luckyGirls.ForYourNutrition.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.luckyGirls.forYourNutrition.dao.MemberDao;
-import com.luckyGirls.forYourNutrition.domain.Member;
+import com.luckyGirls.ForYourNutrition.dao.MemberDao;
+import com.luckyGirls.ForYourNutrition.domain.Member;
 
 @Service
 public class MemberServiceImpl implements MemberService {

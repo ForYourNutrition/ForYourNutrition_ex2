@@ -1,12 +1,12 @@
-package com.luckyGirls.forYourNutrition.dao;
+package com.luckyGirls.ForYourNutrition.dao;
 
 import java.util.List;
 
 import org.springframework.dao.DataAccessException;
 import org.springframework.stereotype.Repository;
 
-import com.luckyGirls.forYourNutrition.domain.SRecommend;
-import com.luckyGirls.forYourNutrition.domain.Survey;
+import com.luckyGirls.ForYourNutrition.domain.SRecommend;
+import com.luckyGirls.ForYourNutrition.domain.Survey;
 
 /**
  * @author Yeonwoo Nam

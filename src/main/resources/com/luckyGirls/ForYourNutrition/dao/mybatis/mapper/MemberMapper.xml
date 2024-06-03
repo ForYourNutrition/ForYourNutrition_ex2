@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN" "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
 
-<mapper namespace="com.luckyGirls.forYourNutrition.dao.mybatis.mapper.MemberMapper">
+<mapper namespace="com.luckyGirls.ForYourNutrition.dao.mybatis.mapper.MemberMapper">
   <cache />
   
   <select id="getAccountByIdAndPassword" resultType="Member">
