@@ -1,12 +1,12 @@
-package com.luckyGirls.forYourNutrition.dao.mybatis;
+package com.luckyGirls.ForYourNutrition.dao.mybatis;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.dao.DataAccessException;
 import org.springframework.stereotype.Repository;
 
-import com.luckyGirls.forYourNutrition.dao.MemberDao;
-import com.luckyGirls.forYourNutrition.dao.mybatis.mapper.MemberMapper;
-import com.luckyGirls.forYourNutrition.domain.Member;
+import com.luckyGirls.ForYourNutrition.dao.MemberDao;
+import com.luckyGirls.ForYourNutrition.dao.mybatis.mapper.MemberMapper;
+import com.luckyGirls.ForYourNutrition.domain.Member;
 
 /**
  * @author Yeonwoo Nam
