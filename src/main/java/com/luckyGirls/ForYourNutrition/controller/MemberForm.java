@@ -1,8 +1,8 @@
-package com.luckyGirls.forYourNutrition.controller;
+package com.luckyGirls.ForYourNutrition.controller;
 
 import java.io.Serializable;
 
-import com.luckyGirls.forYourNutrition.domain.Member;
+import com.luckyGirls.ForYourNutrition.domain.Member;
 
 
 @SuppressWarnings("serial")

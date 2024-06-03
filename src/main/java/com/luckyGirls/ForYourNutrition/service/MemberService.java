@@ -1,6 +1,6 @@
-package com.luckyGirls.forYourNutrition.service;
+package com.luckyGirls.ForYourNutrition.service;
 
-import com.luckyGirls.forYourNutrition.domain.Member;
+import com.luckyGirls.ForYourNutrition.domain.Member;
 
 public interface MemberService {
 	Member getMember(String id); //회원 정보 가져오기

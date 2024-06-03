@@ -1,9 +1,9 @@
-package com.luckyGirls.forYourNutrition.dao;
+package com.luckyGirls.ForYourNutrition.dao;
 
 import org.springframework.dao.DataAccessException;
 import org.springframework.stereotype.Repository;
 
-import com.luckyGirls.forYourNutrition.domain.Member;
+import com.luckyGirls.ForYourNutrition.domain.Member;
 
 /**
  * @author Yeonwoo Nam
