@@ -51,6 +51,8 @@
 			<artifactId>spring-boot-starter-test</artifactId>
 			<scope>test</scope>
 		</dependency>
+<<<<<<< HEAD
+=======
 		<dependency>
 			<groupId>org.mybatis</groupId>
 			<artifactId>mybatis</artifactId>
@@ -74,6 +76,7 @@
 			<artifactId>ojdbc8</artifactId>		
 			<scope>runtime</scope>
 		</dependency>
+>>>>>>> 2650cdb42c8705bd9187972ca88f166bf966edf7
 	</dependencies>
 
 	<build>
