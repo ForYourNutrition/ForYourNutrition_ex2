@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="ForYourNutritionApplicationTests" project="ForYourNutrition" tests="1" started="1" failures="0" errors="0" ignored="0">
-  <testsuite name="com.luckyGirls.ForYourNutrition.ForYourNutritionApplicationTests" time="1.12" displayname="ForYourNutritionApplicationTests" uniqueid="[engine:junit-jupiter]/[class:com.luckyGirls.ForYourNutrition.ForYourNutritionApplicationTests]">
-    <testcase name="contextLoads" classname="com.luckyGirls.ForYourNutrition.ForYourNutritionApplicationTests" time="1.12" displayname="contextLoads()" uniqueid="[engine:junit-jupiter]/[class:com.luckyGirls.ForYourNutrition.ForYourNutritionApplicationTests]/[method:contextLoads()]"/>
-  </testsuite>
-</testrun>
