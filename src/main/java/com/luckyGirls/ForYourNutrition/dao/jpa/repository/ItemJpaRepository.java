@@ -1,4 +1,4 @@
-package com.luckyGirls.ForYourNutrition.repository;
+package com.luckyGirls.ForYourNutrition.dao.jpa.repository;
 
 import java.util.List;
 import java.util.Optional;
