@@ -30,7 +30,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @Entity
-@Table(name="order")
+@Table(name="orders")
 public class Order {
 	/*기본적으로 가지고 있어야 할 ID*/
 	@Id

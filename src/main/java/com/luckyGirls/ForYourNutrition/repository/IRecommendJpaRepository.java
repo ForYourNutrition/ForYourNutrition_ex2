@@ -1,4 +1,4 @@
-package com.luckyGirls.ForYourNutrition.dao.jpa.repository;
+package com.luckyGirls.ForYourNutrition.repository;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
